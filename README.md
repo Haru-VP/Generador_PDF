@@ -1,4 +1,4 @@
-#Generador de Presupuestos en PDF
+## Generador de Presupuestos en PDF
 
 Una aplicación web hecha con Python y Streamlit para generar presupuestos de consultoría personalizable en formato PDF, con diseño profesional y logo de la empresa.
 
@@ -27,8 +27,3 @@ O en Windows, simplemente haz doble clic en `lanzar.bat`.
 - Subida de logotipo
 - Cálculo automático del total
 - Diseño visual atractivo (colores, curvas, íconos)
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT.
-hecho por Anyeli Pinto.
